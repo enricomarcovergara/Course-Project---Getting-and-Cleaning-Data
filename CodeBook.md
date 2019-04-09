@@ -123,7 +123,7 @@ The following steps were taken in order to come up with the final tidy data set.
 
 3. Used descriptive activity names to name the activities in the data set. In addition to the previous steps, the activity labels, feature names and subject were considered to properly make descriptions.
 
-4. Appropriately labeled the data set with descriptive variable names. The appropriate descriptive variable names served as replacement to the large dataset columns (variables).
+4. Appropriately labeled the data set with descriptive variable names. The appropriate descriptive variable names served as replacement to the large dataset columns (variables). (DATAFRAME: TidyDataSet)
   * t > time
   * f > frequency
   * Acc > Accelerometer
