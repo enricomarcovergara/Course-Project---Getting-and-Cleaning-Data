@@ -1,4 +1,4 @@
-# GETTING AND CLEANING DATA COURSE PROJECT
+# GETTING AND CLEANING DATA: COURSE PROJECT
 
 DISCLAIMER: This repository is created to store all the necessary files for the completion of Getting and Cleaning Data Module of the Data Science Course.
 
