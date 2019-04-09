@@ -124,11 +124,11 @@ The following steps were taken in order to come up with the final tidy data set.
 3. Used descriptive activity names to name the activities in the data set. In addition to the previous steps, the activity labels, feature names and subject were considered to properly make descriptions.
 
 4. Appropriately labeled the data set with descriptive variable names. The appropriate descriptive variable names served as replacement to the large dataset columns (variables).
-  1. t > time
-  2. f > frequency
-  3. Acc > Accelerometer
-  4. Gyro > Gyroscope
-  5. Mag > Magnitude
-  6. BodyBody > Body
+  * t > time
+  * f > frequency
+  * Acc > Accelerometer
+  * Gyro > Gyroscope
+  * Mag > Magnitude
+  * BodyBody > Body
 
 5. From the data set in step 4, created a second, independent tidy data set with the average of each variable for each activity and each subject. The script "run_analysis.R" calculates the average for all measurement columns grouped by variables Activity and Subject and then writes the output to a local text file named "TidyData.txt"
