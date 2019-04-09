@@ -11,7 +11,7 @@ The data linked to from the course website represent data collected from the acc
 
 The link below pertains to the data set used in this course project:
 
-**https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zi**
+**https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip**
 
 ## PROJECT REQUIREMENTS
 Overall, the project requires
